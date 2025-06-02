@@ -1,4 +1,4 @@
-title = "Sathish Kumar Thiyagarajan"
+title = "Sangamithra A U"
 baseURL = "https://example.com/"
 theme = "my-resume"
 languageCode = "en-us"
@@ -10,12 +10,12 @@ enableGitInfo = false
 [params]
 address = "Coimbatore, India"
 favicon = "/favicon.ico"
-firstName = "Sathish Kumar"
-lastName = "Thiyagarajan"
+firstName = "Sangamithra"
+lastName = "A U"
 phone = "1-555-555-1234"
 showSocializations = true
 showContact = false
-sections = ["skills","publications","creations","contributions","experience","education","blog"]
+sections = ["skills","education","experience","creations","contributions"]
 
 
 [params.google]
@@ -24,11 +24,11 @@ sections = ["skills","publications","creations","contributions","experience","ed
 trackerID = "XX-123446-01"
 
 [[params.handles]]
-link = "https://www.linkedin.com/in/sathishkumarthiyagarajan/"
+link = "https://www.linkedin.com/in/sangamithra-anand-b461bb252/"
 name = "LinkedIn"
 
 [[params.handles]]
-link = "https://github.com/sathishk/"
+link = "https://github.com/Sangamithraananad/"
 name = "GitHub"
 
 [outputs]
