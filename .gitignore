@@ -1,6 +1,7 @@
 .hugo/
 public/
 resources/
+publications/
 themes/
 *.backup
 
